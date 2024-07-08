@@ -2,6 +2,8 @@
 
 WIZ-enabled gadget using Power over Ethernet (PoE) for internet and power, paired with wireless Qi charging for seamless connectivity.
 
+<img width="893" alt="Screenshot 2024-07-08 134541" src="https://github.com/sumastavr/PoeQi/assets/72283566/d5178336-400a-476d-a68f-73cb61da0a6f">
+
 ![20240707_214209-ezgif com-optimize](https://github.com/sumastavr/PoeQi/assets/72283566/610e9006-615d-4f87-a54c-2966a282ad58)
 
 ![20240707_212716-ezgif com-optimize](https://github.com/sumastavr/PoeQi/assets/72283566/3e58472a-4c34-4d32-ab4e-9aeb6ab1757e)
